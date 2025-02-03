@@ -1,5 +1,19 @@
-## The Axyl BFTD Github Organization has officially been depricated.
+<div align="center">
 
-# As of now you can see the official organization of the core developer austin over at [The Autists](https://github.com/the-autists) or join his [Discord](https://discord.gg/awfixer)
+<h1>
+  Axyl-BFTD has been moved
+</h1>
 
-information will be published in the organization, and on the discord, thank you for all the time and support put into the various organizations we have had
+<h2>
+  New organization is <a href="https://github.com/awfixer-org">here</a>
+</h2>
+
+<h2>
+  You can also join the <a href="https://discord.gg/awfixer">Discord</a>
+</h2>
+
+<h1>
+  We love you, see you soon!
+</h1>
+
+</div>
